@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [404 ( Page Not Found ) & Default Routing in Angular](https://vjtechworld.com/2019/09/404-page-not-found-default-routing-in.html) on [VJ Tech Diary](https://vjtechworld.com). 
+Read tutorial [404 ( Page Not Found ) & Default Routing in Angular](https://vjtechworld.com/2019/09/404-page-not-found-default-routing-in.html) on [VJ Tech World](https://vjtechworld.com). 
 
 ## Install Dependencies
 
